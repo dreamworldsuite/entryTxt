@@ -3,8 +3,8 @@
 tag_version.json
 
 {                                               <br>
- &nbsp;  "latestTag": "v0.1.1",                 <br>
- &nbsp;  "latestFolder": "test1",               <br>
+ &nbsp;  "latestTag": "v0.1.3",                 <br>
+ &nbsp;  "latestFolder": "test2",               <br>
  &nbsp;  "minAppVersion": "1",                  <br>
- &nbsp;  "updatedAt": "2026-01-23T21:00:00Z"    <br>
+ &nbsp;  "updatedAt": "2026-02-21T16:00:00Z"    <br>
 }
